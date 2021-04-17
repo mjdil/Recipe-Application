@@ -1,0 +1,6 @@
+{
+    "request": "delete_recipe",
+    "payload": {
+    "recipe_id": 231638
+  }
+  }

@@ -1,0 +1,6 @@
+{
+    "request": "get_ingredient",
+    "payload": {
+    "ingredient_name": "tandoori chicken"
+  }
+  }

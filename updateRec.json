@@ -1,0 +1,16 @@
+{
+    "request": "update_recipe",
+    "payload": {
+    "recipe_id": 231639,
+      "recipe_name": "Chicken On the Rocks",
+      "cook_time": 121,
+      "description": "Mediterranian and American fused savoury dish",
+      "calories": 420.68,
+      "fat": 22,
+      "sugar": 15,
+      "sodium": 44,
+      "protein": 33,
+      "saturated_fat": 54,
+      "carbohydrates": 25
+  }
+  }

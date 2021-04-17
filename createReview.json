@@ -1,0 +1,8 @@
+{
+    "request": "create_review",
+    "payload": {
+    "recipe_id": 231639,
+    "rating": 5,
+    "comment": "It tastes great for the first 2 bites only!"
+  }
+  }

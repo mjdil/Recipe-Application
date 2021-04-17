@@ -1,0 +1,18 @@
+{
+  "request": "create_recipe",
+  "payload": {
+    "recipe_name": "Chicken On The Sticks",
+    "cook_time": 120,
+    "description": "I am a single mom who thinks this recipe is delicious, my kids love it!",
+    "calories": 430.68,
+    "fat": 20,
+    "sugar": 14,
+    "sodium": 43,
+    "protein": 32,
+    "saturated_fat": 53,
+    "carbohydrates": 24,
+    "ingredients": ["french fries", "garlic sauce", "jerk chicken"], 
+    "instructions": ["Fry French Fries", "Cook chicken", "Salt fries and chicken", "Mix fries and chicken with sauce"],
+    "photo": "https://images.media-allrecipes.com/userphotos/560x315/34726.jpg"
+}
+}
